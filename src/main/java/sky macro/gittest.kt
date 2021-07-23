@@ -1,4 +1,4 @@
 package `sky macro`
 
 class gittest {
-}hello git4
+}hello git4abcd
